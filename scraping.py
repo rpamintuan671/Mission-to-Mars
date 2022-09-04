@@ -106,7 +106,7 @@ def hemisphere_urls(browser):
     
         # We have to find the elements on each loop to avoid a stale element exception
         # browser.find_by_tag("div.description a.itemLink.product-item")[i].click()
-        browser.find_by_tag("a.product-item h3")[i].click()
+        browser.find_by_css("a.product-item img")[i].click()
         
         # Next, we find the Sample image anchor tag and extract the href
         sample_elem = browser.links.find_by_text('Sample').first
