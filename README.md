@@ -1,13 +1,27 @@
-# Module 10 | Assignment - Mission to Mars
+# Mission to Mars
 
 
-## Challenge Solution
+## Resources: 
 
-[Challenge Solution](Challenge_Solution): The solution files for the module's challenge assignment are located in this folder.
+> * NASA Mars Exploration Program: Latest Mars News
 
-## Module Solution
 
-[Module Solution](Module_Solution): Any module demos or solution files for the module async content are located in this folder.
+> * NASA Jet Propulsion Laboratory: Featured Mars Image
+
+
+> * Space Facts: Mars Facts
+
+
+> * Languages: Python, HTML, CSS
+
+
+> * Applications: MongoDB, Flask
+
+> * USGS Astrogeology: Mars Hemispheres
+
+
+> * Tools: Pandas, Splinter, BeautifulSoup, Jupyter Notebook
+
 
 
 ![](Photos/Featured%20Mars%20Image.png)
